@@ -1,0 +1,11 @@
+main: net.codexcraftmc.hashcache.effyou
+name: FuckYou
+version: 1.0
+author: HashCache
+description: An Example plugin
+commands:
+  fuckyou:
+    description: Sends a "fuck you" message
+    usage: /fuckyou
+    permission: fuck.you
+    permission-message: You don't have permission to do that ;^>
